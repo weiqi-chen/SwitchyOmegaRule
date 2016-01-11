@@ -1,12 +1,13 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Date: 2015/12/11
+; Date: 2016/1/11
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
+; 记得在vim下使用`:sort u`来排序文件并删除重复的行啊~~
 
 *.adfiltering-rules.googlecode.com
 *.adnxs.com
-*.ajax.googleapis.com
 *.akamaihd.net
+*.anshouji.com
 *.aspnetcdn.com
 *.atdmt.com
 *.betterantivirus.com
@@ -16,7 +17,6 @@
 *.blogger.com
 *.blogspot.com
 *.boardreader.com
-*.chart.googleapis.com
 *.cloud-cdn-digitalocean-com.global.ssl.fastly.net
 *.crypto-js.googlecode.com
 *.debian.org
@@ -28,12 +28,12 @@
 *.facebook.net
 *.fbcdn.net
 *.feedburner.com
-*.fonts.googleapis.com
 *.forum.eset.com
 *.free-electrons.com
 *.gamer.com.tw
 *.gebi1.com
 *.ggpht.com
+*.github-cloud.s3.amazonaws.com
 *.githubapp.com
 *.gmodules.com
 *.google-analytics.com
@@ -41,38 +41,43 @@
 *.google.com
 *.google.com.*
 *.google.com.hk
-*.google.fr
 *.googleapis.com
 *.googlechromereleases.blogspot.com
 *.googletagservices.com
 *.googleusercontent.com
 *.googlevideo.com
+*.gravatar.com
 *.greatfire.org
 *.gstatic.com
 *.i-cable.com
 *.itsjustkevin.com
 *.learnpythonthehardway.org
 *.macports.org
-*.maps.googleapis.com
 *.mp3blue.net
+*.msecnd.net
 *.onedrive.live.com
 *.openwrt.org
 *.optimizely.com
+*.osmc.tv
 *.phpgao.com
 *.pixnet.net
 *.putty.org
+*.raspberry-projects.com
 *.ridderby-tech.blogspot.com
 *.roodo.com
+*.sandai.net
 *.sfx.ms
 *.shadowsocks.org
+*.skype.com
+*.sstatic.net
 *.stumbleupon.com
 *.tfzdownload.blogspot.com
 *.torproject.org
 *.toshiba.com
-*.translate.googleapis.com
 *.twimg.com
 *.twitter.com
 *.ubuntu.org.cn
+*.webupd8.org
 *.wikipedia.org
 *.wordpress.com
 *.wp.com
