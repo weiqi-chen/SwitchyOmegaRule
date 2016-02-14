@@ -17,6 +17,7 @@
 *.blogger.com
 *.blogspot.com
 *.boardreader.com
+*.cdn.optimizely.com
 *.cloud-cdn-digitalocean-com.global.ssl.fastly.net
 *.crypto-js.googlecode.com
 *.debian.org
@@ -55,9 +56,7 @@
 *.macports.org
 *.mp3blue.net
 *.msecnd.net
-*.onedrive.live.com
 *.openwrt.org
-*.optimizely.com
 *.osmc.tv
 *.phpgao.com
 *.pixnet.net
@@ -87,9 +86,6 @@
 *.youtube.com
 *.ytimg.com
 *.zhuatieba.com
-geo.gateway.messenger.live.com
 gist.github.com
 onedrive-feedback.ts.parature.com
-onedrive.live.com
 skyapi.onedrive.live.com
-skypewebexperience.live.com
