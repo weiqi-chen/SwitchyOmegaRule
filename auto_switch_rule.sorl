@@ -1,9 +1,10 @@
-[SwitchyOmega Conditions]
+﻿[SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Date: 11/21/2016
+; Date: 2017/5/2
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 ; 记得在vim下使用`:sort u`来排序文件并删除重复的行啊~~
-
+*.1mobile.com
+*.2o7.net
 *.adfiltering-rules.googlecode.com
 *.adnxs.com
 *.ai-development.org
@@ -18,9 +19,11 @@
 *.apkmirror.com
 *.arduino.cc
 *.aspnetcdn.com
+*.assets-cdn.github.com
 *.atdmt.com
 *.avatars0.githubusercontent.com
 *.avatars1.githubusercontent.com
+*.aywifi.com
 *.betterantivirus.com
 *.bigpond.net.au
 *.bit.ly
@@ -30,6 +33,7 @@
 *.blogspot.com
 *.boardreader.com
 *.bootstrapcdn.com
+*.bp.blogspot.com
 *.calconnect.org
 *.camo.githubusercontent.com
 *.cdn.optimizely.com
@@ -39,14 +43,18 @@
 *.cloud-cdn-digitalocean-com.global.ssl.fastly.net
 *.cloud.githubusercontent.com
 *.cloudflare.com
+*.cloudfront.net
 *.cpuboss.com
 *.crypto-js.googlecode.com
 *.d1b2zzpxewkr9z.cloudfront.net
+*.dabeaz.blogspot.com
 *.danharper.me
 *.debian.org
 *.dnscrypt.org
+*.dot.tk
 *.doubleclick.net
 *.dropbox.com
+*.elinux.org
 *.eloqua.com
 *.evozi.com
 *.facebook.com
@@ -59,12 +67,16 @@
 *.gamer.com.tw
 *.gebi1.com
 *.geexbox.org
+*.gentlelogic.blogspot.com
 *.ggpht.com
+*.gist.github.com
+*.gitbook.com
 *.github-cloud.s3.amazonaws.com
 *.githubapp.com
 *.gleam.io
 *.gmail.com
 *.gmodules.com
+*.gnu.org
 *.google-analytics.com
 *.google.ca
 *.google.co.jp
@@ -83,6 +95,7 @@
 *.gravatar.com
 *.greatfire.org
 *.gstatic.com
+*.halper.in
 *.howtoforge.com
 *.i-cable.com
 *.igfw.net
@@ -91,17 +104,24 @@
 *.inversekarma.in
 *.isotousb.com
 *.itsjustkevin.com
+*.jetbrains.com
+*.kao-chin.blogspot.com
+*.keil.com
+*.kivy.org
 *.learnpythonthehardway.org
 *.linuxfoundation.org
 *.macports.org
 *.maps.googleapis.com
 *.mediafire.com
 *.mega.co.nz
+*.mega.nz
 *.mit.edu
 *.mp3blue.net
 *.msecnd.net
 *.nicovideo.jp
+*.nullege.com
 *.omtrdc.net
+*.onedrive.live.com
 *.openwrt.org
 *.operacdn.com
 *.optimizely.com
@@ -109,8 +129,10 @@
 *.osmc.tv
 *.owndrive.com
 *.p.tanx.com
+*.pastebin.com
 *.phpgao.com
 *.pixnet.net
+*.privoxy.org
 *.putty.org
 *.python.org
 *.quantserve.com
@@ -118,7 +140,10 @@
 *.raspberry-projects.com
 *.ridderby-tech.blogspot.com
 *.riotgames.jp
+*.robot-electronics.co.uk
 *.roodo.com
+*.s3.amazonaws.com
+*.safelyremove.com
 *.sandai.net
 *.scriptkitty.ca
 *.sfx.ms
@@ -126,27 +151,36 @@
 *.shadowsocks.org
 *.skype.com
 *.slideshare.net
+*.sourceforge.net
 *.speakerdeck.com
 *.ssjsq.com
 *.sstatic.net
 *.ssyoutube.com
+*.storage.googleapis.com
 *.straightrunning.com
 *.stumbleupon.com
+*.superuser.com
 *.techjawab.com
 *.teespring-storecontent.s3.amazonaws.com
 *.teespring.com
 *.tfzdownload.blogspot.com
 *.torproject.org
 *.toshiba.com
+*.tumblr.com
 *.twimg.com
 *.twitter.com
 *.ubuntu.org.cn
+*.ucc.asn.au
+*.uni-freiburg.de
 *.webupd8.org
+*.wikimedia.org
 *.wikipedia.org
 *.wordpress.com
 *.wp.com
+*.www.googleapis.com
 *.wyx-ccy.com
 *.xiaolan.me
+*.xuite.net
 *.yahoo.com
 *.youtu.be
 *.youtube-nocookie.com
