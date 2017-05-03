@@ -1,6 +1,6 @@
 ﻿[SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Date: 2017/5/2
+; Date: 5/3/2017
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 ; 记得在vim下使用`:sort u`来排序文件并删除重复的行啊~~
 *.1mobile.com
@@ -17,6 +17,7 @@
 *.apk-dl.com
 *.apkfind.com
 *.apkmirror.com
+*.appledaily.com.tw
 *.arduino.cc
 *.aspnetcdn.com
 *.assets-cdn.github.com
@@ -26,6 +27,7 @@
 *.aywifi.com
 *.betterantivirus.com
 *.bigpond.net.au
+*.bind9.net
 *.bit.ly
 *.bitsup.blogspot.com
 *.blogblog.com
@@ -34,10 +36,12 @@
 *.boardreader.com
 *.bootstrapcdn.com
 *.bp.blogspot.com
+*.bt.center
 *.calconnect.org
 *.camo.githubusercontent.com
 *.cdn.optimizely.com
 *.cdninstagram.com
+*.chinadigitaltimes.net
 *.chromium.org
 *.ciembor.github.io
 *.cloud-cdn-digitalocean-com.global.ssl.fastly.net
@@ -50,6 +54,8 @@
 *.dabeaz.blogspot.com
 *.danharper.me
 *.debian.org
+*.disqus.com
+*.disquscdn.com
 *.dnscrypt.org
 *.dot.tk
 *.doubleclick.net
@@ -57,6 +63,7 @@
 *.elinux.org
 *.eloqua.com
 *.evozi.com
+*.eylife.net
 *.facebook.com
 *.facebook.net
 *.fbcdn.net
@@ -68,6 +75,7 @@
 *.gebi1.com
 *.geexbox.org
 *.gentlelogic.blogspot.com
+*.geogebra.org
 *.ggpht.com
 *.gist.github.com
 *.gitbook.com
@@ -93,23 +101,28 @@
 *.googleusercontent.com
 *.googlevideo.com
 *.gravatar.com
+*.graviox.de
 *.greatfire.org
+*.groovypost.com
 *.gstatic.com
 *.halper.in
 *.howtoforge.com
 *.i-cable.com
 *.igfw.net
+*.imdb.com
 *.inf-it.com
 *.instagram.com
 *.inversekarma.in
 *.isotousb.com
 *.itsjustkevin.com
 *.jetbrains.com
+*.jquery.com
 *.kao-chin.blogspot.com
 *.keil.com
 *.kivy.org
 *.learnpythonthehardway.org
 *.linuxfoundation.org
+*.luckyorange.com
 *.macports.org
 *.maps.googleapis.com
 *.mediafire.com
@@ -118,11 +131,12 @@
 *.mit.edu
 *.mp3blue.net
 *.msecnd.net
+*.myfontastic.com
+*.net2ftp.com
+*.netspotapp.com
 *.nicovideo.jp
 *.nullege.com
 *.omtrdc.net
-*.onedrive.live.com
-*.openwrt.org
 *.operacdn.com
 *.optimizely.com
 *.osdn.jp
@@ -130,6 +144,7 @@
 *.owndrive.com
 *.p.tanx.com
 *.pastebin.com
+*.pearsoncred.com
 *.phpgao.com
 *.pixnet.net
 *.privoxy.org
@@ -140,6 +155,7 @@
 *.raspberry-projects.com
 *.ridderby-tech.blogspot.com
 *.riotgames.jp
+*.rmjdw.com
 *.robot-electronics.co.uk
 *.roodo.com
 *.s3.amazonaws.com
@@ -149,8 +165,10 @@
 *.sfx.ms
 *.shadow.ma
 *.shadowsocks.org
+*.shopify.com
 *.skype.com
 *.slideshare.net
+*.sloyalty.com
 *.sourceforge.net
 *.speakerdeck.com
 *.ssjsq.com
@@ -160,6 +178,7 @@
 *.straightrunning.com
 *.stumbleupon.com
 *.superuser.com
+*.t.co
 *.techjawab.com
 *.teespring-storecontent.s3.amazonaws.com
 *.teespring.com
@@ -167,12 +186,17 @@
 *.torproject.org
 *.toshiba.com
 *.tumblr.com
+*.tunnelbear.com
 *.twimg.com
 *.twitter.com
 *.ubuntu.org.cn
 *.ucc.asn.au
+*.umblr.com
 *.uni-freiburg.de
+*.users.storage.live.com
 *.webupd8.org
+*.wenxuecity.com
+*.wherethebearsare.tv
 *.wikimedia.org
 *.wikipedia.org
 *.wordpress.com
@@ -182,6 +206,7 @@
 *.xiaolan.me
 *.xuite.net
 *.yahoo.com
+*.yotpo.com
 *.youtu.be
 *.youtube-nocookie.com
 *.youtube.com
@@ -189,6 +214,4 @@
 *.zhuatieba.com
 android.googlesource.com
 gist.github.com
-onedrive-feedback.ts.parature.com
-onedrive.live.com
 skyapi.onedrive.live.com
