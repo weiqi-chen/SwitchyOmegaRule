@@ -1,6 +1,79 @@
-﻿[SwitchyOmega Conditions]
+[SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Date: 5/3/2017
+; Date: 12/11/2018
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 ; 记得在vim下使用`:sort u`来排序文件并删除重复的行啊~~
 
+*.acmeprints.com
+*.amazon.com
+*.amazonaws.com
+*.android.com
+*.apk-dl.com
+*.atdmt.com
+*.banana-pi.org
+*.bit.ly
+*.bizographics.com
+*.blogblog.com
+*.blogger.com
+*.bp.blogspot.com
+*.btdb.to
+*.cdninstagram.com
+*.cedexis-radar.net
+*.cedexis-test.com
+*.cloudflare.com
+*.demdex.net
+*.facebook.com
+*.facebook.net
+*.fbcdn.net
+*.ggpht.com
+*.gist.github.com
+*.gmail.com
+*.goo.gl
+*.google.com
+*.google.com.hk
+*.googleapis.com
+*.googleusercontent.com
+*.googlevideo.com
+*.gstatic.com
+*.histats.com
+*.imrworldwide.com
+*.instagram.com
+*.kernelnewbies.org
+*.medium.com
+*.mega.*
+*.mega.nz
+*.office365.com
+*.onedrive.com
+*.onedrive.live.com
+*.optimicdn.com
+*.pastebin.com
+*.phncdn.com
+*.pinimg.com
+*.putty.org
+*.raspberrypi.org
+*.reactos.org
+*.rg3.github.io
+*.rosetalk.idv.tw
+*.ruten-proteus.blogspot.com
+*.shadowsocks.org
+*.spoofbox.com
+*.ssl-images-amazon.com
+*.stboy.net
+*.steamstatic.com
+*.t.co
+*.tumblr.com
+*.tunnelbear.com
+*.twimg.com
+*.twitter.com
+*.typora.io
+*.vimeo.com
+*.wikipedia.org
+*.worldsmostsecret.blogspot.com
+*.xda-developers.com
+*.xtube.com
+*.xuite.net
+*.yahoo.com
+*.yimg.com
+*.youtu.be
+*.youtube.com
+*.ytimg.com
