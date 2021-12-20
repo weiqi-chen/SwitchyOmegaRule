@@ -1,14 +1,16 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Date: 09/20/2020
+; Date: 2021年12月21日
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 ; 记得在vim下使用`:sort u`来排序文件并删除重复的行啊~~
 
 *.2cy.cloud
+*.4gtv.tv
 *.acmeprints.com
 *.adnxs.com
 *.akamaihd.net
 *.akamaized.net
+*.amazon.co.jp
 *.amazon.com
 *.amazonaws.com
 *.android.com
@@ -19,6 +21,7 @@
 *.apkmonk.com
 *.aptoide.com
 *.askubuntu.com
+*.aspnetcdn.com
 *.atdmt.com
 *.avatars0.githubusercontent.com
 *.banana-pi.org
@@ -26,6 +29,7 @@
 *.bbc.co.uk
 *.bbc.com
 *.bbci.co.uk
+*.bignox.com
 *.bit.ly
 *.bizographics.com
 *.blogblog.com
@@ -36,7 +40,9 @@
 *.bp.blogspot.com
 *.bt4g.org
 *.btdb.to
+*.cam4.com
 *.camo.githubusercontent.com
+*.cc.com
 *.cdninstagram.com
 *.cdnst.net
 *.cedexis-radar.net
@@ -50,12 +56,14 @@
 *.cncbinternational.com
 *.convnet.net
 *.cppreference.com
+*.d1ulmmr4d4i8j4.cloudfront.net
 *.demdex.net
 *.digitaltrends.com
 *.discourse-cdn.com
 *.disqus.com
 *.dyncdn.me
 *.dynu.com
+*.easyuefi.com
 *.eltechs.com
 *.facebook.com
 *.facebook.net
@@ -64,7 +72,9 @@
 *.fbcdn.net
 *.fdcservers.net
 *.fonts.googleapis.com
+*.forgetfulbc.blogspot.com
 *.fw-web.de
+*.fwcppol.cn
 *.geti2p.net
 *.ggpht.com
 *.gist.github.com
@@ -78,18 +88,25 @@
 *.goo.gl
 *.google.com
 *.google.com.hk
+*.google.com.sg
 *.googleapis.com
 *.googlecommerce.com
 *.googlesource.com
 *.googleusercontent.com
 *.googlevideo.com
 *.gstatic.com
+*.hcaptcha.com
 *.histats.com
+*.icloud.com
+*.iltabiai.github.io
 *.imrworldwide.com
 *.instagram.com
+*.jisumax.com
 *.joeware.net
 *.jquery.com
+*.kawamotorosegarden.com
 *.kernelnewbies.org
+*.kknews.cc
 *.korobov.com
 *.lancely.tech
 *.learnopengl-cn.github.io
@@ -108,6 +125,8 @@
 *.nflxext.com
 *.nflxso.net
 *.nocookie.net
+*.noip.com
+*.noxgroup.com
 *.office.net
 *.office365.com
 *.onedrive.com
@@ -132,6 +151,7 @@
 *.reddit.com
 *.rg3.github.io
 *.rosetalk.idv.tw
+*.rrys2020.com
 *.ruten-proteus.blogspot.com
 *.shadowsocks.org
 *.shopify.com
@@ -141,12 +161,17 @@
 *.spoofbox.com
 *.ssl-images-amazon.com
 *.ssr.tools
+*.sstatic.net
 *.stboy.net
 *.steamcommunity.com
 *.steampowered.com
 *.steamstatic.com
 *.t.co
+*.taisounds.com
+*.tbcache.com
+*.thisissingple.com
 *.torrents.io
+*.toutyrater.github.io
 *.trontv.com
 *.tumblr.com
 *.tunnelbear.com
@@ -155,18 +180,23 @@
 *.twitter.com
 *.typora.io
 *.user-images.githubusercontent.com
+*.v2fly.org
 *.v2ray.com
 *.vimeo.com
 *.vimeocdn.com
 *.virtualbox.org
+*.viu.tv
 *.vpn.net
 *.w3schools.com
 *.webmproject.org
+*.weebly.com
 *.westerndigital.com
 *.wikimedia.org
 *.wikipedia.org
+*.windows.net
 *.wireguard.com
 *.worldsmostsecret.blogspot.com
+*.wsimg.com
 *.xda-developers.com
 *.xtube.com
 *.xuite.net
@@ -174,6 +204,7 @@
 *.xvideos.com
 *.yahoo.com
 *.yimg.com
+*.youku.com
 *.youtu.be
 *.youtube-nocookie.com
 *.youtube.com
@@ -183,4 +214,5 @@
 *.zmk.pw
 52.68.96.58
 bugreports.qt.io
+github-releases.githubusercontent.com
 login.live.com
