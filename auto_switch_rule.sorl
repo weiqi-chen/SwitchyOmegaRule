@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Date: 2021年12月21日
+; Date: 2022/12/5
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 ; 记得在vim下使用`:sort u`来排序文件并删除重复的行啊~~
 
@@ -19,6 +19,7 @@
 *.apk-dl.com
 *.apkmirror.com
 *.apkmonk.com
+*.appimage.org
 *.aptoide.com
 *.askubuntu.com
 *.aspnetcdn.com
@@ -40,6 +41,7 @@
 *.bp.blogspot.com
 *.bt4g.org
 *.btdb.to
+*.bugreports.qt.io
 *.cam4.com
 *.camo.githubusercontent.com
 *.cc.com
@@ -57,6 +59,7 @@
 *.convnet.net
 *.cppreference.com
 *.d1ulmmr4d4i8j4.cloudfront.net
+*.dailymotion.com
 *.demdex.net
 *.digitaltrends.com
 *.discourse-cdn.com
@@ -75,9 +78,12 @@
 *.forgetfulbc.blogspot.com
 *.fw-web.de
 *.fwcppol.cn
+*.gentoo.org
 *.geti2p.net
 *.ggpht.com
+*.gimplearn.blogspot.com
 *.gist.github.com
+*.github-releases.githubusercontent.com
 *.github.com
 *.github.io
 *.githubassets.com
@@ -97,6 +103,7 @@
 *.gstatic.com
 *.hcaptcha.com
 *.histats.com
+*.hkmomall.com
 *.icloud.com
 *.iltabiai.github.io
 *.imrworldwide.com
@@ -104,6 +111,7 @@
 *.jisumax.com
 *.joeware.net
 *.jquery.com
+*.jsdelivr.net
 *.kawamotorosegarden.com
 *.kernelnewbies.org
 *.kknews.cc
@@ -111,6 +119,8 @@
 *.lancely.tech
 *.learnopengl-cn.github.io
 *.letsencrypt.org
+*.logi.com
+*.login.live.com
 *.lttstore.com
 *.medium.com
 *.mega.*
@@ -118,6 +128,7 @@
 *.mesonbuild.com
 *.microsoft.com
 *.microsoftstore.com.hk
+*.mkvhome.com
 *.mobile01.com
 *.msauth.net
 *.netflix.com
@@ -126,7 +137,9 @@
 *.nflxso.net
 *.nocookie.net
 *.noip.com
+*.notepad-plus-plus.org
 *.noxgroup.com
+*.objects.githubusercontent.com
 *.office.net
 *.office365.com
 *.onedrive.com
@@ -141,24 +154,34 @@
 *.phncdn.com
 *.pinimg.com
 *.pornhub.com
+*.portalreloaded.com
+*.proton.me
+*.ptt.cc
 *.putty.org
 *.python.org
 *.rarbgprx.org
+*.raspberrypi.com
 *.raspberrypi.org
 *.raw.githubusercontent.com
+*.rclone.org
 *.reactos.org
 *.realtek.com
 *.reddit.com
+*.reurl.cc
 *.rg3.github.io
+*.riotgames.com
 *.rosetalk.idv.tw
 *.rrys2020.com
 *.ruten-proteus.blogspot.com
 *.shadowsocks.org
 *.shopify.com
 *.slither.io
+*.snopyta.org
+*.sourceforge.net
 *.speedpan.com
 *.speedtest.net
 *.spoofbox.com
+*.spotify.com
 *.ssl-images-amazon.com
 *.ssr.tools
 *.sstatic.net
@@ -166,10 +189,17 @@
 *.steamcommunity.com
 *.steampowered.com
 *.steamstatic.com
+*.storage.googleapis.com
 *.t.co
+*.t.me
 *.taisounds.com
 *.tbcache.com
+*.telegram.org
+*.telephony.goog
 *.thisissingple.com
+*.tiktok.com
+*.tiktokcdn.com
+*.tiktokv.com
 *.torrents.io
 *.toutyrater.github.io
 *.trontv.com
@@ -180,17 +210,20 @@
 *.twitter.com
 *.typora.io
 *.user-images.githubusercontent.com
+*.v2ex.com
 *.v2fly.org
 *.v2ray.com
 *.vimeo.com
 *.vimeocdn.com
 *.virtualbox.org
+*.visual-paradigm.com
 *.viu.tv
 *.vpn.net
 *.w3schools.com
 *.webmproject.org
 *.weebly.com
 *.westerndigital.com
+*.whoer.net
 *.wikimedia.org
 *.wikipedia.org
 *.windows.net
@@ -212,7 +245,3 @@
 *.zh.ifixit.com
 *.zimuku.la
 *.zmk.pw
-52.68.96.58
-bugreports.qt.io
-github-releases.githubusercontent.com
-login.live.com
