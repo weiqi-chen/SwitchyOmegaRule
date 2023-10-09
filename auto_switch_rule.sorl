@@ -1,11 +1,13 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Date: 2022/12/5
+; Date: 2023/10/09
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 ; 记得在vim下使用`:sort u`来排序文件并删除重复的行啊~~
 
+*.1drv.com
 *.2cy.cloud
 *.4gtv.tv
+*.91mjtt.cc
 *.acmeprints.com
 *.adnxs.com
 *.akamaihd.net
@@ -21,6 +23,7 @@
 *.apkmonk.com
 *.appimage.org
 *.aptoide.com
+*.archive.org
 *.askubuntu.com
 *.aspnetcdn.com
 *.atdmt.com
@@ -31,6 +34,7 @@
 *.bbc.com
 *.bbci.co.uk
 *.bignox.com
+*.bilivideo.com
 *.bit.ly
 *.bizographics.com
 *.blogblog.com
@@ -74,6 +78,7 @@
 *.fast.com
 *.fbcdn.net
 *.fdcservers.net
+*.ffzy-play10.com
 *.fonts.googleapis.com
 *.forgetfulbc.blogspot.com
 *.fw-web.de
@@ -92,15 +97,19 @@
 *.gl-inet.com
 *.gmail.com
 *.goo.gl
+*.google.co.jp
 *.google.com
 *.google.com.hk
 *.google.com.sg
 *.googleapis.com
 *.googlecommerce.com
 *.googlesource.com
+*.googletagmanager.com
 *.googleusercontent.com
 *.googlevideo.com
 *.gstatic.com
+*.haitu.tv
+*.haiwaikan.com
 *.hcaptcha.com
 *.histats.com
 *.hkmomall.com
@@ -108,12 +117,15 @@
 *.iltabiai.github.io
 *.imrworldwide.com
 *.instagram.com
+*.iz8qkg.com
 *.jisumax.com
 *.joeware.net
 *.jquery.com
 *.jsdelivr.net
 *.kawamotorosegarden.com
 *.kernelnewbies.org
+*.ketchjs.com
+*.kin6c1.com
 *.kknews.cc
 *.korobov.com
 *.lancely.tech
@@ -122,8 +134,11 @@
 *.logi.com
 *.login.live.com
 *.lttstore.com
+*.mail.ru
+*.mediafire.com
 *.medium.com
 *.mega.*
+*.mega.co.nz
 *.mega.nz
 *.mesonbuild.com
 *.microsoft.com
@@ -131,6 +146,7 @@
 *.mkvhome.com
 *.mobile01.com
 *.msauth.net
+*.msftauth.net
 *.netflix.com
 *.newtrackon.com
 *.nflxext.com
@@ -146,11 +162,14 @@
 *.onedrive.live.com
 *.onesignal.com
 *.ooklaserver.net
+*.openai.com
 *.openwrt.org
 *.optimicdn.com
 *.owndrive.com
 *.pangubox.com
 *.pastebin.com
+*.patreon.com
+*.patreonusercontent.com
 *.phncdn.com
 *.pinimg.com
 *.pornhub.com
@@ -159,6 +178,7 @@
 *.ptt.cc
 *.putty.org
 *.python.org
+*.qoqkkhy.com
 *.rarbgprx.org
 *.raspberrypi.com
 *.raspberrypi.org
@@ -173,6 +193,8 @@
 *.rosetalk.idv.tw
 *.rrys2020.com
 *.ruten-proteus.blogspot.com
+*.sciencecast.org
+*.sentry.io
 *.shadowsocks.org
 *.shopify.com
 *.slither.io
@@ -194,6 +216,7 @@
 *.t.me
 *.taisounds.com
 *.tbcache.com
+*.tdesktop.com
 *.telegram.org
 *.telephony.goog
 *.thisissingple.com
@@ -213,6 +236,7 @@
 *.v2ex.com
 *.v2fly.org
 *.v2ray.com
+*.v82u1l.com
 *.vimeo.com
 *.vimeocdn.com
 *.visual-paradigm.com
@@ -227,6 +251,7 @@
 *.wikipedia.org
 *.windows.net
 *.wireguard.com
+*.wireshark.org
 *.worldsmostsecret.blogspot.com
 *.wsimg.com
 *.xda-developers.com
