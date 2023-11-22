@@ -5,6 +5,7 @@
 ; 记得在vim下使用`:sort u`来排序文件并删除重复的行啊~~
 
 *.1drv.com
+*.1drv.ms
 *.2cy.cloud
 *.4gtv.tv
 *.91mjtt.cc
@@ -22,6 +23,7 @@
 *.apkmirror.com
 *.apkmonk.com
 *.appimage.org
+*.apple.com
 *.aptoide.com
 *.archive.org
 *.askubuntu.com
@@ -67,6 +69,10 @@
 *.digitaltrends.com
 *.discourse-cdn.com
 *.disqus.com
+*.dlr1.fcdn.sk
+*.dns.google
+*.docker.com
+*.download.sysinternals.com
 *.dyncdn.me
 *.dynu.com
 *.easyuefi.com
@@ -107,11 +113,13 @@
 *.googleusercontent.com
 *.googlevideo.com
 *.gstatic.com
+*.gyan.dev
 *.haitu.tv
 *.haiwaikan.com
 *.hcaptcha.com
 *.histats.com
 *.hkmomall.com
+*.icloud-content.com
 *.icloud.com
 *.iltabiai.github.io
 *.imrworldwide.com
@@ -122,11 +130,14 @@
 *.jquery.com
 *.jsdelivr.net
 *.kawamotorosegarden.com
+*.kde.org
 *.kernelnewbies.org
 *.ketchjs.com
 *.kin6c1.com
 *.kknews.cc
 *.korobov.com
+*.kuaiyin002.com
+*.kubuntuforums.net
 *.lancely.tech
 *.learnopengl-cn.github.io
 *.letsencrypt.org
@@ -145,6 +156,7 @@
 *.mkvhome.com
 *.mobile01.com
 *.msauth.net
+*.msecnd.net
 *.msftauth.net
 *.netflix.com
 *.newtrackon.com
@@ -154,6 +166,8 @@
 *.noip.com
 *.notepad-plus-plus.org
 *.noxgroup.com
+*.npcap.com
+*.oaistatic.com
 *.objects.githubusercontent.com
 *.office.net
 *.office365.com
@@ -164,6 +178,7 @@
 *.openai.com
 *.openwrt.org
 *.optimicdn.com
+*.oracle.com
 *.owndrive.com
 *.pangubox.com
 *.pastebin.com
@@ -186,6 +201,7 @@
 *.reactos.org
 *.realtek.com
 *.reddit.com
+*.redditstatic.com
 *.reurl.cc
 *.rg3.github.io
 *.riotgames.com
@@ -203,6 +219,7 @@
 *.speedtest.net
 *.spoofbox.com
 *.spotify.com
+*.spring.io
 *.ssl-images-amazon.com
 *.ssr.tools
 *.sstatic.net
@@ -216,12 +233,14 @@
 *.taisounds.com
 *.tbcache.com
 *.tdesktop.com
+*.teamviewer.com
 *.telegram.org
 *.telephony.goog
 *.thisissingple.com
 *.tiktok.com
 *.tiktokcdn.com
 *.tiktokv.com
+*.todesk.com
 *.torrents.io
 *.toutyrater.github.io
 *.trontv.com
@@ -251,6 +270,7 @@
 *.windows.net
 *.wireguard.com
 *.wireshark.org
+*.worktile.com
 *.worldsmostsecret.blogspot.com
 *.wsimg.com
 *.xda-developers.com
@@ -265,6 +285,10 @@
 *.youtube-nocookie.com
 *.youtube.com
 *.ytimg.com
+*.zettlr.com
 *.zh.ifixit.com
 *.zimuku.la
+*.zlibrary-global.se
 *.zmk.pw
+htmlcssvqs.com
+repo.maven.apache.org
