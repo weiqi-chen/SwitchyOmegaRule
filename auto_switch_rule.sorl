@@ -18,7 +18,6 @@
 *.amazonaws.com
 *.android.com
 *.androidappsapk.co
-*.answers.microsoft.com
 *.apk-dl.com
 *.apkmirror.com
 *.apkmonk.com
@@ -150,8 +149,6 @@
 *.mega.co.nz
 *.mega.nz
 *.mesonbuild.com
-*.microsoft.com
-*.microsoftstore.com.hk
 *.mkvhome.com
 *.mobile01.com
 *.msauth.net
@@ -288,5 +285,3 @@
 *.zimuku.la
 *.zlibrary-global.se
 *.zmk.pw
-htmlcssvqs.com
-repo.maven.apache.org
