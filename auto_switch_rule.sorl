@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Date: 2023/10/09
+; Date: 2024/06/16
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 ; 记得在vim下使用`:sort u`来排序文件并删除重复的行啊~~
 
@@ -28,7 +28,6 @@
 *.askubuntu.com
 *.aspnetcdn.com
 *.atdmt.com
-*.avatars0.githubusercontent.com
 *.banana-pi.org
 *.bandwagonhost.com
 *.bbc.co.uk
@@ -47,12 +46,12 @@
 *.btdb.to
 *.bugreports.qt.io
 *.cam4.com
-*.camo.githubusercontent.com
 *.cc.com
 *.cdninstagram.com
 *.cdnst.net
 *.cedexis-radar.net
 *.cedexis-test.com
+*.chatgpt.com
 *.chaturbate.com
 *.chromium.org
 *.classwired.com
@@ -76,6 +75,7 @@
 *.dynu.com
 *.easyuefi.com
 *.eltechs.com
+*.eset.com
 *.facebook.com
 *.facebook.net
 *.fandom.com
@@ -83,7 +83,6 @@
 *.fbcdn.net
 *.fdcservers.net
 *.ffzy-play10.com
-*.fonts.googleapis.com
 *.forgetfulbc.blogspot.com
 *.fw-web.de
 *.fwcppol.cn
@@ -92,7 +91,6 @@
 *.ggpht.com
 *.gimplearn.blogspot.com
 *.gist.github.com
-*.github-releases.githubusercontent.com
 *.github.com
 *.github.io
 *.githubassets.com
@@ -103,8 +101,7 @@
 *.goo.gl
 *.google.co.jp
 *.google.com
-*.google.com.hk
-*.google.com.sg
+*.google.com.*
 *.googleapis.com
 *.googlecommerce.com
 *.googlesource.com
@@ -118,8 +115,6 @@
 *.hcaptcha.com
 *.histats.com
 *.hkmomall.com
-*.icloud-content.com
-*.icloud.com
 *.iltabiai.github.io
 *.imrworldwide.com
 *.instagram.com
@@ -147,6 +142,7 @@
 *.medium.com
 *.mega.*
 *.mega.co.nz
+*.mega.io
 *.mega.nz
 *.mesonbuild.com
 *.mkvhome.com
@@ -163,8 +159,9 @@
 *.notepad-plus-plus.org
 *.noxgroup.com
 *.npcap.com
+*.nssm.cc
 *.oaistatic.com
-*.objects.githubusercontent.com
+*.obsproject.com
 *.office.net
 *.office365.com
 *.onedrive.com
@@ -188,11 +185,9 @@
 *.ptt.cc
 *.putty.org
 *.python.org
+*.qbittorrent.org
 *.qoqkkhy.com
 *.rarbgprx.org
-*.raspberrypi.com
-*.raspberrypi.org
-*.raw.githubusercontent.com
 *.rclone.org
 *.reactos.org
 *.realtek.com
@@ -223,7 +218,7 @@
 *.steamcommunity.com
 *.steampowered.com
 *.steamstatic.com
-*.storage.googleapis.com
+*.strongswan.org
 *.t.co
 *.t.me
 *.taisounds.com
@@ -245,7 +240,8 @@
 *.twimg.com
 *.twitter.com
 *.typora.io
-*.user-images.githubusercontent.com
+*.usbdev.ru
+*.githubusercontent.com
 *.v2ex.com
 *.v2fly.org
 *.v2ray.com
@@ -268,6 +264,7 @@
 *.worktile.com
 *.worldsmostsecret.blogspot.com
 *.wsimg.com
+*.x.com
 *.xda-developers.com
 *.xtube.com
 *.xuite.net
